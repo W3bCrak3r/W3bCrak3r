@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WebCraker
+- 👋 Hi, I’m WebCraker
 
 <!---
 W3bCrak3r/W3bCrak3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
